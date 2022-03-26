@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\Учеба\ООП\Lab_1_Norm\Project1\x64\Debug\Project1.exe
+D:\Repos\BigInteger\x64\Debug\Project1.exe
