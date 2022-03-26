@@ -21,6 +21,7 @@ int main()
 
 	setlocale(LC_ALL, "rus");
 	std::cout << "kallll" << std::endl;
+	std::cout << "new kal" << std::endl;
 	string path = "C:/Users/user/Desktop/BigNumber1.txt";
 	fstream file(path, ios::in | ios::out | ios::app);
 
